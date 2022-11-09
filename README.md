@@ -5,7 +5,7 @@
   <br>Holaaa! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="60"><br>
   <br> Soy Paula Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
   <br>
-   <img src="https://www.canva.com/design/DAFRVqkAz0I/view?utm_content=DAFRVqkAz0I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="banner" width="500">
+   <img src="./Purple Geometric Technology LinkedIn Banner (1).png" alt="banner" width="800">
    </abc>
 </h1>
 <h2 align="left">:hammer_and_wrench: Tecnologías aprendidas:</h2>
