@@ -1,4 +1,4 @@
-
+![](https://badges.pufler.dev/visits/pauyedro/pauyedro?color=black&logo=github&style=flat-square)
  <img src="https://komarev.com/ghpvc/?username=pauyedro" alt="https://github.com/pauyedro" />
 <h1 align="center">
  <abc>
